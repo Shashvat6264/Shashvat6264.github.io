@@ -1,29 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World"
 date:   2020-08-16 18:48:46 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ - To, whom it may concern 
 
-Jekyll requires blog post files to be named according to the following format:
+![You were supposed to see me](https://scontent.fbom6-1.fna.fbcdn.net/v/t1.0-9/p960x960/83494497_3100998043317616_3486188932272488448_o.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=JD3tTeRLsgEAX_jRHV3&_nc_ht=scontent.fbom6-1.fna&_nc_tp=6&oh=5af4772fbdfc7f1aebb5c5ba65f6d170&oe=5F6080C6)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+# I am
+Hi, My name is *Shashvat Gupta*, a sophomore at IIT Kharagpur enrolled for a Dual Degree course in the department of Computer Science and Engineering. I am from Mumbai, India.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+If you just want to know me:
+Squash.. Football.. Guitar.. Travel.. Open Source Enthusiast.. Food..
 
-Jekyll also offers powerful support for code snippets:
+If you have a project: 
+1. Front-End Web Design in HTML, CSS, Vanilla JavaScript, ReactJS
+2. Back-End Web Development in Django, NodeJS, Flask
+3. App Development in Java
+4. ML Enthusiast
+5. Image Processing in OpenCV
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## What I believe in
+> To shatter your limits, you have to cross them. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+# What is this
+This is a blog of my thoughts and learnings which I want to share with the world. If you like them and want to talk to me, contact me from [here]().
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Thank you for reading.
