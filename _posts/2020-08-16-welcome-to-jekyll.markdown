@@ -8,7 +8,7 @@ categories: jekyll update
 
 ![You were supposed to see me](https://scontent.fbom6-1.fna.fbcdn.net/v/t1.0-9/p960x960/83494497_3100998043317616_3486188932272488448_o.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=JD3tTeRLsgEAX_jRHV3&_nc_ht=scontent.fbom6-1.fna&_nc_tp=6&oh=5af4772fbdfc7f1aebb5c5ba65f6d170&oe=5F6080C6)
 
-# I am
+## I am
 Hi, My name is *Shashvat Gupta*, a sophomore at IIT Kharagpur enrolled for a Dual Degree course in the department of Computer Science and Engineering. I am from Mumbai, India.
 
 If you just want to know me:
@@ -21,10 +21,10 @@ If you have a project:
 4. ML Enthusiast
 5. Image Processing in OpenCV
 
-## What I believe in
+# What I believe in
 > To shatter your limits, you have to cross them. 
 
-# What is this
+## What is this
 This is a blog of my thoughts and learnings which I want to share with the world. If you like them and want to talk to me, contact me from [here]().
 
 Thank you for reading.
