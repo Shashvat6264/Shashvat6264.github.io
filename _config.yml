@@ -28,7 +28,7 @@ twitter_username: None
 github_username:  Shashvat6264
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
